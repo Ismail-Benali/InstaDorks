@@ -1,4 +1,6 @@
+![v 1 0 1](https://github.com/user-attachments/assets/2a9eace0-17a7-4906-9288-fcd00e5c983d)
 # InstaDorks Generator Pro
+
 
 InstaDorks Generator Pro is an advanced and user-friendly tool designed to help you generate custom search queries (Dorks) for extracting valuable information from Instagram through search engines like Google. The tool simplifies the process of targeting specific Instagram profiles, posts, hashtags, or any related content using pre-defined or custom Dorks.
 
